@@ -1,5 +1,5 @@
 # Wine-Store-Study-model-
 
-Foi feita uma análise exploratória dos dados e foram utilizados os métodos K-means, DBSCAN e Mean shift para agrupar dados sem classificação. Também foi possível Avaliar a qualidade de uma clusterização através da utilização do coeficiente de silhueta
+An exploratory analysis of the data was made and the K-means, DBSCAN and Mean shift methods were used to group data without classification. It was also possible to assess the quality of a cluster using the silhouette coefficient
 
 
